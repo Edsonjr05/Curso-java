@@ -1,2 +1,2 @@
-# Curso-java
- Curso em Java ministrado pelo Guanabara
+# Curso Java
+ CursoJava ministrado Guanabara
