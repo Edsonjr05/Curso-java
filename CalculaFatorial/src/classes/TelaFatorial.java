@@ -127,10 +127,10 @@ public class TelaFatorial extends javax.swing.JFrame {
             while (numero > 0){
                 fatorial = fatorial * numero;
                 if (numero == 1){
-                fator += numero;
+                 fator += numero;
                 }else
-                fator += numero + " * ";   
-                numero--;
+                 fator += numero + " * ";   
+                 numero--;
             }
                 }
         lblResultado.setText(Integer.toString(fatorial));
